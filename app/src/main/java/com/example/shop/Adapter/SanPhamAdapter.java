@@ -39,7 +39,7 @@ public class SanPhamAdapter extends RecyclerView.Adapter<SanPhamAdapter.ItemHold
     @Override
     public void onBindViewHolder(@NonNull ItemHolder holder, int position) {
         SanPham sanPham = arrayListSanPham.get(position);
-        holder.txtGiaSanPham.setMaxLines(2);
+        holder.txtTenSanPham.setMaxLines(2);
         holder.txtTenSanPham.setEllipsize(TextUtils.TruncateAt.END);
         holder.txtTenSanPham.setText(sanPham.getTenSanPham());
         DecimalFormat decimalFormat = new DecimalFormat("###,###,###");
