@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.shop"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <!-- Include required permissions for Google Maps API to run. -->
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:23:5-79
+14-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:23:22-76
+15
+16    <uses-feature
+16-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:26:5-28:35
+17        android:glEsVersion="0x00020000"
+17-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:27:9-41
+18        android:required="true" />
+18-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:28:9-32
+19
+20    <queries>
+20-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:30:5-34:15
+21
+22        <!-- Needs to be explicitly declared on Android R+ -->
+23        <package android:name="com.google.android.apps.maps" />
+23-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:33:9-64
+23-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:33:18-61
+24    </queries>
+25
+26    <application
+26-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:7:5-30:19
+27        android:allowBackup="true"
+27-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:8:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.7.0] C:\Users\Toan\.gradle\caches\transforms-3\9339927e08badd09bc5459e4ba900d5f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:9:9-43
+32        android:label="@string/app_name"
+32-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:10:9-41
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:11:9-54
+34        android:supportsRtl="true"
+34-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:12:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.SHOP"
+36-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:13:9-42
+37        android:usesCleartextTraffic="true" >
+37-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:14:9-44
+38        <activity
+38-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:15:9-17:40
+39            android:name="com.example.shop.Activity.ChiTietSanPham"
+39-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:16:13-52
+40            android:exported="false" />
+40-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:17:13-37
+41        <activity
+41-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:18:9-20:40
+42            android:name="com.example.shop.Activity.SanPhamActyvity"
+42-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:19:13-53
+43            android:exported="false" />
+43-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:20:13-37
+44        <activity
+44-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:21:9-29:20
+45            android:name="com.example.shop.Activity.MainActivity"
+45-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:22:13-50
+46            android:exported="true" >
+46-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:23:13-36
+47            <intent-filter>
+47-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:24:13-28:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:25:17-69
+48-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:25:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:27:17-77
+50-->C:\Users\Toan\AndroidStudioProjects\SHOP\app\src\main\AndroidManifest.xml:27:27-74
+51            </intent-filter>
+52        </activity>
+53        <!-- Needs to be explicitly declared on P+ -->
+54        <uses-library
+54-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:39:9-41:40
+55            android:name="org.apache.http.legacy"
+55-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:40:13-50
+56            android:required="false" />
+56-->[com.google.android.gms:play-services-maps:18.0.1] C:\Users\Toan\.gradle\caches\transforms-3\c14dba5edf88df814e318dcbd7f96049\transformed\jetified-play-services-maps-18.0.1\AndroidManifest.xml:41:13-37
+57
+58        <activity
+58-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\Toan\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+59            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+59-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\Toan\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+60            android:exported="false"
+60-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\Toan\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+61            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+61-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\Toan\.gradle\caches\transforms-3\c247fbe16cfb168c5d8e079da1f8ee44\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+62
+63        <meta-data
+63-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toan\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+64            android:name="com.google.android.gms.version"
+64-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toan\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+65            android:value="@integer/google_play_services_version" />
+65-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Toan\.gradle\caches\transforms-3\e6d400ba5c8d05501ff6f03a459292e6\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+66
+67        <provider
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+68            android:name="androidx.startup.InitializationProvider"
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+69            android:authorities="com.example.shop.androidx-startup"
+69-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+70            android:exported="false" >
+70-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+71            <meta-data
+71-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+72                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+72-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+73                android:value="androidx.startup" />
+73-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Toan\.gradle\caches\transforms-3\09b79be83fba3907471fe1de63f439d3\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+74            <meta-data
+74-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+75                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+75-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+76                android:value="androidx.startup" />
+76-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Toan\.gradle\caches\transforms-3\0e4a425e61d135d109d64d5f17d999df\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+77        </provider>
+78    </application>
+79
+80</manifest>

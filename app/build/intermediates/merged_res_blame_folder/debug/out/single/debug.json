@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable_spnew.png.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable\\spnew.png"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\layout_item_loaisp.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\layout\\item_loaisp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chi_tiet_san_pham.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\layout\\activity_chi_tiet_san_pham.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\layout_progressbar.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\layout\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable_list.png.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable\\list.png"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\layout_item_san_pham_moi.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\layout\\item_san_pham_moi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_san_pham_actyvity.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\layout\\activity_san_pham_actyvity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_loading.png.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable-v24\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_error.png.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable-v24\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\drawable_buy.png.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\drawable\\buy.png"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\build\\intermediates\\merged_res\\debug\\layout_san_pham_by_type.xml.flat",
+        "source": "C:\\Users\\Toan\\AndroidStudioProjects\\SHOP\\app\\src\\main\\res\\layout\\san_pham_by_type.xml"
+    }
+]

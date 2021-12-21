@@ -1,0 +1,41 @@
+com/example/shop/Model/LoaiSP.java
+ com.example.shop.Model.LoaiSP
+com/example/shop/BuildConfig.java
+ com.example.shop.BuildConfig
+com/example/shop/ultil/MySingleton.java
+ com.example.shop.ultil.MySingleton
+com/example/shop/ultil/CheckConnect.java
+ com.example.shop.ultil.CheckConnect
+com/example/shop/ultil/Server.java
+ com.example.shop.ultil.Server
+com/example/shop/Adapter/LoaiSPAdapter.java
+ com.example.shop.Adapter.LoaiSPAdapter
+ com.example.shop.Adapter.LoaiSPAdapter$ViewHolder
+com/example/shop/Model/SanPham.java
+ com.example.shop.Model.SanPham
+com/example/shop/Activity/ChiTietSanPham.java
+ com.example.shop.Activity.ChiTietSanPham
+com/example/shop/Adapter/SanPhamByIDAdapter.java
+ com.example.shop.Adapter.SanPhamByIDAdapter
+ com.example.shop.Adapter.SanPhamByIDAdapter$ViewHolder
+com/example/shop/Activity/SanPhamActyvity.java
+ com.example.shop.Activity.SanPhamActyvity
+ com.example.shop.Activity.SanPhamActyvity$1
+ com.example.shop.Activity.SanPhamActyvity$2
+ com.example.shop.Activity.SanPhamActyvity$3
+ com.example.shop.Activity.SanPhamActyvity$4
+ com.example.shop.Activity.SanPhamActyvity$5
+ com.example.shop.Activity.SanPhamActyvity$6
+ com.example.shop.Activity.SanPhamActyvity$ThreadData
+ com.example.shop.Activity.SanPhamActyvity$mHandler
+com/example/shop/Activity/MainActivity.java
+ com.example.shop.Activity.MainActivity
+ com.example.shop.Activity.MainActivity$1
+ com.example.shop.Activity.MainActivity$2
+ com.example.shop.Activity.MainActivity$3
+ com.example.shop.Activity.MainActivity$4
+ com.example.shop.Activity.MainActivity$5
+ com.example.shop.Activity.MainActivity$6
+com/example/shop/Adapter/SanPhamAdapter.java
+ com.example.shop.Adapter.SanPhamAdapter
+ com.example.shop.Adapter.SanPhamAdapter$ItemHolder
